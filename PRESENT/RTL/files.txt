@@ -1,0 +1,7 @@
+analyze -format verilog  {../RTL/Affine.v}
+analyze -format verilog  {../RTL/NF_CF_1.v}
+analyze -format verilog  {../RTL/NF_CF_2.v}
+analyze -format verilog  {../RTL/PRESENTSbox.v}
+analyze -format verilog  {../RTL/Q12_1_2order_8r.v}
+analyze -format verilog  {../RTL/Q12_2_2order_NoFresh.v}
+analyze -format verilog  {../RTL/XOR_3.v}
